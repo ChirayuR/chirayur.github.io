@@ -38,30 +38,28 @@
 
 // Responsive iframe styling for mobile devices
 iframe {
-  width: 100% !important;
   max-width: 100%;
-  height: auto;
-  aspect-ratio: auto;
-  
-  @media (max-width: 768px) {
-    max-height: 500px;
-  }
+  display: block;
+  margin: 1rem auto;
 }
 
 // Container for responsive iframe wrapping
 .iframe-container {
   position: relative;
   width: 100%;
-  max-width: 640px;
-  margin: 0 auto;
-  
-  @media (max-width: 768px) {
-    max-width: 100%;
-  }
+  padding-bottom: 131%; // Aspect ratio for 620x820
+  height: 0;
+  overflow: hidden;
+  margin: 1rem 0;
   
   iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    max-width: 100%;
+    height: 100%;
+    border: none;
+    margin: 0;
   }
 }
 
