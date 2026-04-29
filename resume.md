@@ -4,6 +4,6 @@ title: Resume
 ---
 
 
-<iframe src="https://drive.google.com/file/d/10WQFrIfN30BjMiB3UApYmBRsVxk6ClKa/preview" width="640" height="820" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FF3S9nWeLGZCG5cCYv3_Y890YC_UfrMd/preview" width="640" height="820" allow="autoplay"></iframe>
 
 ---
