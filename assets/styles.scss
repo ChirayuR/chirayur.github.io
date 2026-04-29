@@ -38,12 +38,14 @@
 
 // Responsive iframe styling for mobile devices
 iframe {
+  width: 100% !important;
   max-width: 100%;
-  width: 100%;
-  height: auto;
-  min-height: 500px;
+  aspect-ratio: 3 / 4;
+  min-height: 320px;
+  max-height: 85vh;
   display: block;
   margin: 1rem auto;
+  border: none;
 }
 
 // Sass for creating the swatches
