@@ -9,7 +9,7 @@ toc:  false
 **Almonds?**!
 {: .message }
 
-<iframe src="https://drive.google.com/file/d/1pMuKXIVrc2_n5Ku0hpxsk7I5cl9B6K9m/preview" width="620" height="820" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1pMuKXIVrc2_n5Ku0hpxsk7I5cl9B6K9m/preview" allow="autoplay"></iframe>
 
 
 Secondly, hello to myself from 1 year back[^fn-hah].

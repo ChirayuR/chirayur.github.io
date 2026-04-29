@@ -8,7 +8,7 @@ toc:  false
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1kM83_6aoJpuPlKVTxXSeYiw5nkBO2Sr9/preview" width="620" height="620" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1kM83_6aoJpuPlKVTxXSeYiw5nkBO2Sr9/preview" allow="autoplay"></iframe>
 
 I have been creating comics and just forgetting to post them[^fn-hah].
 
