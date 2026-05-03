@@ -9,7 +9,7 @@ toc:  false
 **Almonds?**!
 {: .message }
 
-<img src="{{ '/assets/comics/Comic-lunch.png' | relative_url }}" alt="Lunch?" style="max-width: 600px;">
+<img src="{{ '/assets/comics/Comic-lunch.png' | relative_url }}" alt="Lunch?" style="width: 100%; max-width: 600px; display: block; margin: 1rem auto;">
 
 Secondly, hello to myself from 1 year back[^fn-hah].
 
