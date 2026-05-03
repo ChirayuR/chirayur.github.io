@@ -9,7 +9,7 @@ toc:  false
 **Almonds?**!
 {: .message }
 
-![Lunch?]({{ '/assets/comics/Comic-lunch.png' | relative_url }})
+<img src="{{ '/assets/comics/Comic-lunch.png' | relative_url }}" alt="Lunch?" style="max-width: 600px;">
 
 Secondly, hello to myself from 1 year back[^fn-hah].
 
