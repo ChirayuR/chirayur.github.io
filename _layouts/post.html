@@ -31,6 +31,10 @@ layout: default
     {% include post-tags.html %}
   {% endif %}
 
+  {% if page.post_tags_note %}
+    <p class="post-tags-note">{{ page.post_tags_note }}</p>
+  {% endif %}
+
   {% if jekyll.environment == "production" and site.disqus and page.comments != false %}
     {% include disqus.html %}
   {% endif %}

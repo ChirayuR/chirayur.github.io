@@ -5,6 +5,7 @@ date: 2026-05-04 03:56 +0530
 last_modified_at: 2026-05-04 03:56:36 +0530
 tags: [blog, comic]
 toc:  false
+post_tags_note: "Unrelated: The guitar riff in 'You Only Live Once - The Strokes' is addictive."
 ---
 
 Funny incident with a coworker happened [I may have paraphrased]
