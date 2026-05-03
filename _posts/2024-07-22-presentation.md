@@ -8,7 +8,7 @@ toc:  false
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1kM83_6aoJpuPlKVTxXSeYiw5nkBO2Sr9/preview" allow="autoplay"></iframe>
+<img src="{{ '/assets/comics/comic-presentation.png' | relative_url }}" alt="That's my cue, i guess?" style="width: 100%; max-width: 600px; display: block; margin: 1rem auto;">
 
 I have been creating comics and just forgetting to post them[^fn-hah].
 
